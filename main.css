@@ -1,0 +1,112 @@
+body{
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+}
+#frog {
+    position:absolute;
+    font-size:100px;
+    margin: 0;
+    top: 0;
+    left: 0;
+    opacity:0;
+    width: 30%;
+} 
+#frog:hover{
+    position:absolute;
+    font-size:100px;
+    margin: 0;
+    top: 0;
+    left: 0;
+    opacity: 1;
+}
+
+#mushroom {
+    position:absolute;
+    font-size:100px;
+    margin: 0;
+    top: 0;
+    left: 50%;
+    opacity:0;
+    width: 30%;
+} 
+#mushroom:hover{
+    position:absolute;
+    font-size:100px;
+    margin: 0;
+    top: 0;
+    left: 50%;
+    opacity: 1;
+}
+
+#tomnook {
+    position:absolute;
+    font-size:100px;
+    margin: 0;
+    bottom: 0;
+    left: 30%;
+    opacity:0;
+} 
+#tomnook:hover{
+    position:absolute;
+    font-size:100px;
+    margin: 0;
+    bottom: 0;
+    left: 30%;
+    opacity: 1;
+}
+
+#troll {
+    position:absolute;
+    font-size:100px;
+    margin: 0;
+    bottom: 0;
+    right: 10%;
+    opacity:0;
+} 
+#troll:hover{
+    position:absolute;
+    font-size:100px;
+    margin: 0;
+    bottom: 0;
+    right: 10%;
+    opacity: 1;
+}
+#rat {
+    position:absolute;
+    font-size:100px;
+    margin: 0;
+    bottom: 0;
+    right: 20%;
+    opacity:0;
+    width: 30%;
+} 
+#rat:hover{
+    position:absolute;
+    font-size:100px;
+    margin: 0;
+    bottom: 0;
+    right: 30%;
+    opacity: 1;
+    width: 20%;
+}
+#koopa {
+    position:absolute;
+    font-size:100px;
+    margin: 0;
+    top: 0;
+    right: 50%;
+    opacity:0;
+    width: 20%;
+} 
+#koopa:hover{
+    position:absolute;
+    font-size:100px;
+    margin: 0;
+    top: 0;
+    right: 50%;
+    opacity: 1;
+    width: 20%;
+}
